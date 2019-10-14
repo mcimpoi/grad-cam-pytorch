@@ -9,6 +9,7 @@ PyTorch implementation of Grad-CAM (Gradient-weighted Class Activation Mapping) 
 * click
 * opencv
 * tqdm
+* matplotlib
 
 ## Basic usage
 
